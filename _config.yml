@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yukun Ethan Zhou"
 title_separator          : "-"
 name                     : &name "Yukun Ethan Zhou"
-description              : &description "Yukun Ethan Zhou's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yukun Zhou (Yukun Ethan Zhou) researches physics-based simulation, computer graphics, and robotics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yukunethanzhou.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                             # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   bio              : "Research, projects, and art."
   location         :
   employer         :
-  uri              : # URL
+  uri              : "https://yukunethanzhou.github.io/"
   email            : "yukunzhou009@gmail.com"
   wechat           : "AnotherYukito"
 
@@ -68,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yukun-zhou-657826228"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -150,9 +150,12 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Yukun Ethan Zhou"
+  alternate_name         : "Yukun Zhou"
+  links:
+    - "https://github.com/YukunEthanZhou"
+    - "https://www.linkedin.com/in/yukun-zhou-657826228"
 
 
 # Analytics
