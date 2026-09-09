@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yukun Ethan Zhou"
-seo_title: "Yukun Zhou (Yukun Ethan Zhou) | Physics-Based Simulation & Robotics"
+seo_title: "Yukun Zhou (Yukun Ethan Zhou) - Physics-Based Simulation & Robotics"
 description: "Yukun Zhou (Yukun Ethan Zhou) researches physics-based simulation, computer graphics, deformable objects, and robotics."
 hide_title: true
 author_profile: true
