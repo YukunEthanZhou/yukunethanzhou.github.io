@@ -35,6 +35,7 @@ Research Output
 ======
 
 - **Manuscript under review**: Anonymous author, Yukun Zhou, and other authors. About the optimization of Vertex Block Descent. Manuscript submitted, 2026.
+- **Manuscript under review**: First-author research on games, ICT4D, player experience, and well-being. Manuscript under review, 2026.
 
 Research
 ======
@@ -89,7 +90,6 @@ Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - Sept
 City University of Hong Kong, Hong Kong<br>
 Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - September 2023.
 
-- Led a first-author research project on games, ICT4D, player experience, and well-being.
 - Developed design implications and application scenarios for improving player well-being through game-related systems.
 </div>
 </div>
