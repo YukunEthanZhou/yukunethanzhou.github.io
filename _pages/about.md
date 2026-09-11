@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Yukun Ethan Zhou"
-seo_title: "Yukun Zhou (Yukun Ethan Zhou) - Physics-Based Simulation & Robotics"
-description: "Yukun Zhou (Yukun Ethan Zhou) researches physics-based simulation, computer graphics, deformable objects, and robotics."
+title: "Yukun Zhou（周宇坤/Ethan）"
+seo_title: "Yukun Zhou（周宇坤/Ethan） - Physics-Based Simulation & Robotics"
+description: "Yukun Zhou（周宇坤/Ethan） researches physics-based simulation, computer graphics, deformable objects, and robotics."
 hide_title: true
 author_profile: true
 sidebar:
@@ -19,7 +19,7 @@ redirect_from:
 About Me
 ======
 
-I am **Yukun Zhou**, also known as **Yukun Ethan Zhou**. My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
+I am **Yukun Zhou（周宇坤/Ethan）**. My background combines physics-based simulation research, graphics engineering, game development, HCI, and applied machine learning.
 
 I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications, and in applying them to robotics. My research focuses on physics-based simulation and optimization for deformable objects, as well as related robotics applications.
 
