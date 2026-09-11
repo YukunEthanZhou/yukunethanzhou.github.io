@@ -75,9 +75,9 @@ research_cas_cuhk_preview:
   - title: "PD Insertion with Needle Volume Constraints"
     type: image
     source: "/videos/RA-Phd track/PD insertion needle volume constraints.gif"
-  - title: "PD Cutting with Low-Rank Updates"
+  - title: "PD Rabbit Cutting with Low-Rank Updates"
     type: image
-    source: "/videos/RA-Phd track/PD low-rank update cutting.gif"
+    source: "/videos/RA-Phd track/PD low rank update cutting-rabbit.gif"
 
 research_georgia_tech:
   - title: "Particle Flow Map Simulation I"
