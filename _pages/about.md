@@ -48,7 +48,7 @@ Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html)
 - Developing real-time anisotropic and elastoplastic rod simulation with non-penetrating contact for cable manipulation.
 - Deploying the system on a single-arm Franka robot.
 
-{% include media-row.html label="UCLA research" accent="cyan" media_key="research_ucla_preview" limit=2 %}
+{% include media-row.html label="UCLA research" accent="cyan" media_key="research_ucla_preview" limit=3 %}
 
 <p class="detail-link"><a href="/projects/ucla-ra/" target="_blank" rel="noopener noreferrer" data-new-tab="true">View UCLA RA project <span aria-hidden="true">&rarr;</span></a></p>
 </div>

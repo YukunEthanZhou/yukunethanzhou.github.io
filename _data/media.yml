@@ -1,4 +1,7 @@
 research_ucla:
+  - title: "Franka Cable Pickup with DER"
+    type: video
+    source: "/videos/RA-UCLA/franka_pickup_der.mp4"
   - title: "DER CIPC Plectoneme Formation"
     type: video
     source: "/videos/RA-UCLA/DEP CIPC plectoneme_formation.mp4"
@@ -37,6 +40,9 @@ research_ucla:
     source: "/videos/RA-UCLA/PD Plastic.mp4"
 
 research_ucla_preview:
+  - title: "Franka Cable Pickup with DER"
+    type: image
+    source: "/videos/RA-UCLA/franka_pickup_der.gif"
   - title: "DER CIPC Plectoneme Formation"
     type: image
     source: "/videos/RA-UCLA/DER CIPC plectoneme formation.gif"
