@@ -1,0 +1,37 @@
+.standalone-project {
+  width: calc(100% - 2rem);
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 4rem 0;
+
+  .media-gallery {
+    margin: 0 auto;
+  }
+}
+
+.standalone-project__header,
+.standalone-project__content > .media-page__intro {
+  max-width: 48rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.standalone-project__header {
+  margin-bottom: 2rem;
+
+  h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    line-height: 1.15;
+  }
+}
+
+@media (max-width: 767px) {
+  .standalone-project {
+    padding: 2.5rem 0;
+  }
+
+  .standalone-project__header h1 {
+    font-size: 1.8rem;
+  }
+}

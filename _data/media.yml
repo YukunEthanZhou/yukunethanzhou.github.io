@@ -1,0 +1,133 @@
+research_ucla:
+  - title: "Franka Cable Pickup with DER"
+    type: video
+    source: "/videos/RA-UCLA/franka_pickup_der.mp4"
+  - title: "DER CIPC Plectoneme Formation"
+    type: video
+    source: "/videos/RA-UCLA/DEP CIPC plectoneme_formation.mp4"
+  - title: "DER X-Axis Anisotropic Rectangular Cantilever Test"
+    type: video
+    source: "/videos/RA-UCLA/DER x-axis anisotropic rectangular cantilever test.mp4"
+  - title: "DER Y-Axis Anisotropic Rectangular Cantilever Test"
+    type: video
+    source: "/videos/RA-UCLA/DER y-axis anisotropic rectangular + cantilever test.mp4"
+  - title: "DER CIPC Rod Contact"
+    type: video
+    source: "/videos/RA-UCLA/DER CIPC contact rod.mp4"
+  - title: "DER CIPC Contact and Dual-Gripper Lift"
+    type: video
+    source: "/videos/RA-UCLA/DER CIPC contact + dual gripper lift.mp4"
+  - title: "PD X-Axis Anisotropic Rectangular Cantilever Test"
+    type: video
+    source: "/videos/RA-UCLA/PD x-axis anisotropic rectagular cantilever test.mp4"
+  - title: "PD Y-Axis Anisotropic Rectangular Cantilever Test"
+    type: video
+    source: "/videos/RA-UCLA/PD y-axis anisotropic rectagular + cantilever test.mp4"
+  - title: "PD Dry-Friction Contact with Crossing Rods"
+    type: video
+    source: "/videos/RA-UCLA/PD dry friction contact + crossing rod.mp4"
+  - title: "PD Midpoint Release"
+    type: video
+    source: "/videos/RA-UCLA/PD mid point release.mp4"
+  - title: "PD Rod–Soft Body Contact with Dry Friction"
+    type: video
+    source: "/videos/RA-UCLA/PD rod-soft body + dry friction.mp4"
+  - title: "PD Plectoneme Formation"
+    type: video
+    source: "/videos/RA-UCLA/PD plectomneme_formation.mp4"
+  - title: "PD Plastic Deformation"
+    type: video
+    source: "/videos/RA-UCLA/PD Plastic.mp4"
+
+research_ucla_preview:
+  - title: "Franka Cable Pickup with DER"
+    type: image
+    source: "/videos/RA-UCLA/franka_pickup_der.gif"
+  - title: "DER CIPC Plectoneme Formation"
+    type: image
+    source: "/videos/RA-UCLA/DER CIPC plectoneme formation.gif"
+  - title: "DER CIPC Contact and Dual-Gripper Lift"
+    type: image
+    source: "/videos/RA-UCLA/DER CIPC dual gripper lift.gif"
+
+research_cas_cuhk:
+  - title: "PD Insertion with Needle Volume Constraints"
+    type: video
+    source: "/videos/RA-Phd track/PD insertion needle volume constraints.mp4"
+  - title: "PD Insertion with Dynamic Bounds"
+    type: video
+    source: "/videos/RA-Phd track/PD insertion with  dynamic bounds.mp4"
+  - title: "PD Insertion with SDF Contact"
+    type: video
+    source: "/videos/RA-Phd track/PD Insertion with SDF contact.mp4"
+  - title: "PD Short-Needle Insertion"
+    type: video
+    source: "/videos/RA-Phd track/PD short needle insertion.mp4"
+  - title: "PD Cutting with Low-Rank Updates"
+    type: video
+    source: "/videos/RA-Phd track/PD low-rank update cutting.mp4"
+  - title: "PD Rabbit Cutting with Low-Rank Updates"
+    type: image
+    source: "/videos/RA-Phd track/PD low rank update cutting-rabbit.gif"
+  - title: "Human Brain 3D Reconstruction"
+    type: image
+    source: "/videos/3dbrain.png"
+
+research_cas_cuhk_preview:
+  - title: "PD Insertion with Needle Volume Constraints"
+    type: image
+    source: "/videos/RA-Phd track/PD insertion needle volume constraints.gif"
+  - title: "PD Rabbit Cutting with Low-Rank Updates"
+    type: image
+    source: "/videos/RA-Phd track/PD low rank update cutting-rabbit.gif"
+
+research_georgia_tech:
+  - title: "Particle Flow Map Simulation I"
+    type: image
+    source: "/videos/Summer Intern - Gatech/Particle Flow Map Simulation I.gif"
+  - title: "Particle Flow Map Simulation II"
+    type: image
+    source: "/videos/Summer Intern - Gatech/Particle Flow Map Simulation II.gif"
+
+project_simulation:
+  - title: "Mass-Spring Cube Simulation"
+    type: image
+    source: "/videos/cube.png"
+  - title: "Inverse Kinematics"
+    type: image
+    source: "/videos/IK.png"
+  - title: "Keyframe Animation"
+    type: image
+    source: "/videos/keyframe.png"
+
+project_game:
+  - title: "Lucidmare Gameplay"
+    type: image
+    source: "/videos/Projects-Game/lucidmare1.gif"
+  - title: "Lucidmare Shader"
+    type: image
+    source: "/videos/Projects-Game/lucidmare2-shader.gif"
+  - title: "Donuts!"
+    type: image
+    source: "/videos/Projects-Game/Donuts!.gif"
+
+project_ar:
+  - title: "AR Glasses Gesture Recognition"
+    type: image
+    source: "/videos/ar.png"
+  - title: "Android Application"
+    type: image
+    source: "/videos/ar-app.png"
+  - title: "Audio Processing Pipeline"
+    type: image
+    source: "/videos/ar-audio processing.png"
+
+project_human_rendering:
+  - title: "Subsurface Scattering Shader"
+    type: image
+    source: "/videos/shader-Subsurface Scattering.png"
+
+project_nlp:
+  - title: "BERT Sentiment Analysis"
+    type: image
+    source: "/videos/bert.png"

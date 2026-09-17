@@ -1,0 +1,25 @@
+{% assign project = include.project %}
+{% assign media_items = site.data.media[project.media_key] %}
+{% assign media_count = 0 %}
+{% if media_items %}{% assign media_count = media_items.size %}{% endif %}
+<div class="research-entry{% if media_count == 1 %} research-entry--single-media{% endif %}">
+  {% if media_count == 1 %}
+    {% include media-row.html label=project.title accent=project.accent media_key=project.media_key limit=1 %}
+  {% endif %}
+
+  <div class="research-entry__body">
+    <p><strong>{{ project.title }}</strong><br>{{ project.category }}</p>
+    <p>{{ project.summary }}</p>
+    {% if project.tags %}
+      <p><strong>Technologies:</strong> {{ project.tags | join: ", " }}</p>
+    {% endif %}
+  </div>
+
+  {% if media_count > 1 %}
+    {% include media-row.html label=project.title accent=project.accent media_key=project.media_key limit=3 %}
+  {% endif %}
+
+  {% if project.more_url %}
+    <p class="detail-link"><a href="{{ project.more_url | relative_url }}">More <span aria-hidden="true">&rarr;</span></a></p>
+  {% endif %}
+</div>
