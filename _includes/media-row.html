@@ -1,0 +1,17 @@
+{% assign media_items = site.data.media[include.media_key] %}
+{% assign media_limit = include.limit | default: 3 %}
+<div class="media-row media-row--{{ media_limit }}" aria-label="{{ include.label }} media">
+  {% if media_items %}
+    {% for item in media_items limit:media_limit %}
+      <div class="media-row__item project-media project-media--{{ include.accent | default: 'slate' }}">
+        {% if item.type == "video" %}
+          <video controls preload="metadata" aria-label="{{ item.title }}">
+            <source src="{{ item.source | relative_url }}">
+          </video>
+        {% else %}
+          <img src="{{ item.source | relative_url }}" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
+</div>
