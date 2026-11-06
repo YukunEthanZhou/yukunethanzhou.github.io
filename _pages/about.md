@@ -81,7 +81,8 @@ Advised by Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/), June 2024 - Sept
 City University of Hong Kong, Hong Kong<br>
 Advised by Dr. [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/), June 2022 - September 2023.
 
-- Developed design implications and application scenarios for improving player well-being through game-related systems.
+- **First-author manuscript under review**: Produced a paper on games, ICT4D, player experience, and well-being.
+- Completed an HCI research project on games and ICT4D, leading 13 interviews, thematic analysis, and discussion of the findings to identify design implications and further application scenarios for enhancing player well-being.
 </div>
 
 Projects
