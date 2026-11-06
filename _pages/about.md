@@ -23,7 +23,7 @@ I am **Yukun Zhou（周宇坤/Ethan）**. My background combines physics-based s
 
 I am especially interested in developing physics-based simulation algorithms and systems that are physically meaningful, computationally efficient, and useful for interactive applications, and in applying them to robotics.
 
-Previously, I worked on rod insertion, soft-body projective dynamics, cutting simulation, and VBD-based optimization methods. I am currently a research assistant at [UCLA](https://www.ucla.edu/), advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html). <span style="color: #8B5A2B;">My current work focuses on robotics and physics-based simulation.</span>
+Previously, I worked on rod insertion, soft-body Projective Dynamics, cutting simulation, and VBD-based optimization methods under the supervision of Dr. [Zhongkai Zhang](https://scholar.google.com/citations?hl=zh-CN&user=IsXcUo4AAAAJ&view_op=list_works&sortby=pubdate). I also worked on fluid simulation during a summer research internship with Dr. [Bo Zhu](https://faculty.cc.gatech.edu/~bozhu/). I am currently a research assistant at [UCLA](https://www.ucla.edu/), advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html). <span style="color: #8B5A2B;">My current work focuses on robotics and physics-based simulation.</span>
 
 Education
 ======
