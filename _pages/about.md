@@ -45,7 +45,7 @@ Research
 University of California, Los Angeles, Los Angeles, USA<br>
 Advised by Dr. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/index.html), June 2026 - Present.
 
-- Working on a simulation and robotics project.
+- Working on robot-learning policy training, real-to-sim-to-real workflows, and real-robot perception and control experiments.
 </div>
 
 <div class="research-entry" markdown="1">
